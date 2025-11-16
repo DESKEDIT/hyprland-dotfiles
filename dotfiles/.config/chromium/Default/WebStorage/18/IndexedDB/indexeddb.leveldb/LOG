@@ -1,0 +1,14 @@
+2025/11/14-20:07:30.122 df8 Creating DB /home/harry/.config/chromium/Default/WebStorage/18/IndexedDB/indexeddb.leveldb since it was missing.
+2025/11/14-20:07:30.380 df8 Reusing MANIFEST /home/harry/.config/chromium/Default/WebStorage/18/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/11/14-20:07:33.383 df9 Level-0 table #5: started
+2025/11/14-20:07:33.489 df9 Level-0 table #5: 1592130 bytes OK
+2025/11/14-20:07:33.538 df9 Delete type=0 #3
+2025/11/14-20:07:57.590 df9 Level-0 table #7: started
+2025/11/14-20:07:58.083 df9 Level-0 table #7: 2356820 bytes OK
+2025/11/14-20:07:58.742 df9 Delete type=0 #4
+2025/11/14-20:08:17.479 df9 Compacting 1@1 + 1@2 files
+2025/11/14-20:08:17.613 df9 Generated table #8@1: 3507 keys, 1792045 bytes
+2025/11/14-20:08:17.613 df9 Compacted 1@1 + 1@2 files => 1792045 bytes
+2025/11/14-20:08:17.752 df9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/14-20:08:17.752 df9 Delete type=2 #7
+2025/11/14-20:08:17.752 df9 Delete type=2 #5

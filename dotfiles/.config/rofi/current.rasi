@@ -1,0 +1,129 @@
+/**
+ * rofi -dump-theme output.
+ * Rofi version: 1.7.9+wayland1
+ **/
+* {
+    blue:             Blue;
+    grey:             rgba ( 238, 238, 238, 100 % );
+    black:            Black;
+    anchor:           north;
+    background-color: transparent;
+    location:         center;
+    border-color:     rgba ( 68, 68, 68, 100 % );
+    white:            White;
+    spacing:          2;
+}
+window {
+    transparency:     "real";
+    background-color: transparent;
+    padding:          0.0000% 0.0000% 1.0000em ;
+    y-offset:         -10.0000% ;
+    border:           0;
+    x-offset:         0;
+}
+mainbox {
+    padding: 0px ;
+    spacing: 1.0000% ;
+    border:  0;
+}
+message {
+    padding:          1.0000em ;
+    background-color: var(white);
+    border:           2px ;
+    text-color:       var(black);
+}
+textbox normal {
+    padding:    0;
+    text-color: rgba ( 0, 43, 54, 100 % );
+    border:     0;
+}
+listview {
+    padding:          1.0000em ;
+    background-color: var(white);
+    columns:          1;
+    reverse:          false;
+    fixed-height:     1;
+    border:           2px ;
+}
+element {
+    padding:   2px ;
+    highlight: bold ;
+    border:    0;
+}
+element normal.normal {
+    background-color: transparent;
+    text-color:       rgba ( 0, 43, 54, 100 % );
+}
+element normal.urgent {
+    background-color: WhiteSmoke;
+    text-color:       rgba ( 215, 95, 0, 100 % );
+}
+element normal.active {
+    background-color: WhiteSmoke;
+    text-color:       rgba ( 0, 95, 135, 100 % );
+}
+element selected.normal {
+    background-color: rgba ( 66, 113, 174, 100 % );
+    text-color:       WhiteSmoke;
+}
+element selected.urgent {
+    background-color: rgba ( 215, 95, 0, 100 % );
+    text-color:       WhiteSmoke;
+}
+element selected.active {
+    background-color: rgba ( 0, 95, 135, 100 % );
+    text-color:       WhiteSmoke;
+}
+element alternate.normal {
+    background-color: rgba ( 208, 208, 208, 80 % );
+    text-color:       rgba ( 0, 43, 54, 100 % );
+}
+element alternate.urgent {
+    background-color: rgba ( 208, 208, 208, 80 % );
+    text-color:       rgba ( 215, 95, 0, 100 % );
+}
+element alternate.active {
+    background-color: rgba ( 208, 208, 208, 80 % );
+    text-color:       rgba ( 0, 95, 135, 100 % );
+}
+element-text {
+    background-color: inherit;
+    text-color:       inherit;
+}
+scrollbar {
+    padding: 0;
+    border:  0;
+}
+inputbar {
+    padding:          0.5000em 1.0000em ;
+    background-color: var(grey);
+    index:            0;
+    spacing:          0;
+    border:           2px ;
+    children:         [ "prompt","textbox-prompt-colon","entry","case-indicator" ];
+}
+inputbar normal {
+    foreground-color: rgba ( 0, 43, 54, 100 % );
+    background-color: transparent;
+}
+mode-switcher {
+    padding:          0.5000em 1.0000em ;
+    background-color: var(grey);
+    index:            10;
+    border:           2px ;
+}
+button selected {
+    text-color: rgba ( 66, 113, 174, 100 % );
+}
+textbox-prompt-colon {
+    margin:     0px 0.3000em 0.0000em 0.0000em ;
+    expand:     false;
+    str:        ":";
+    text-color: var(black);
+}
+error-message {
+    padding:          1.0000em ;
+    background-color: rgba ( 255, 136, 136, 100 % );
+    border:           2px ;
+    text-color:       var(black);
+}

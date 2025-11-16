@@ -1,0 +1,80 @@
+{
+   "checksum": "bfe433f2373e51e2020b0214c197bbab",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13407598179171427",
+            "date_last_used": "0",
+            "guid": "be37aaae-0470-484a-93ac-41d268a929c5",
+            "id": "5",
+            "name": "Debian.org",
+            "type": "url",
+            "url": "https://www.debian.org/"
+         }, {
+            "date_added": "13407598179173145",
+            "date_last_used": "0",
+            "guid": "6cd1c380-9e98-4b3e-8e3e-8b56c3527a30",
+            "id": "6",
+            "name": "Latest News",
+            "type": "url",
+            "url": "https://www.debian.org/News/"
+         }, {
+            "date_added": "13407598179173993",
+            "date_last_used": "0",
+            "guid": "eae70a67-6bda-4fdf-979e-e8aa188ba959",
+            "id": "7",
+            "name": "Help",
+            "type": "url",
+            "url": "https://www.debian.org/support"
+         }, {
+            "children": [ {
+               "date_added": "13407630503939118",
+               "date_last_used": "13407689675330646",
+               "guid": "071978d6-8815-4e61-bf0e-b08fc660fc61",
+               "id": "9",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Hyprlock Configuration | HyprFlux",
+               "type": "url",
+               "url": "https://www.hyprflux.dev/features/hyprlock.html"
+            } ],
+            "date_added": "13407630527802516",
+            "date_last_used": "0",
+            "date_modified": "13407630527802668",
+            "guid": "8f727448-1bd6-4b80-acf7-8d7612151261",
+            "id": "10",
+            "name": "Config",
+            "type": "folder"
+         } ],
+         "date_added": "13407598168058543",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13407598168058543",
+         "date_last_used": "0",
+         "date_modified": "13407630503939118",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13407598168058543",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

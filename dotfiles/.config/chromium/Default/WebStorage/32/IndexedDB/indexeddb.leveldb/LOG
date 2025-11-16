@@ -1,0 +1,5 @@
+2025/11/15-19:51:18.823 1a04 Creating DB /home/harry/.config/chromium/Default/WebStorage/32/IndexedDB/indexeddb.leveldb since it was missing.
+2025/11/15-19:51:18.936 1a04 Reusing MANIFEST /home/harry/.config/chromium/Default/WebStorage/32/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/11/15-19:51:44.276 1a06 Level-0 table #5: started
+2025/11/15-19:51:45.337 1a06 Level-0 table #5: 1981809 bytes OK
+2025/11/15-19:51:45.899 1a06 Delete type=0 #3
