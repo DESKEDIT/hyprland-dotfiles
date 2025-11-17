@@ -8,7 +8,7 @@ echo "Updating the system"
 apt update
 
 echo "installing dependencies"
-apt install -y thunar kitty rofi chromium waybar
+apt install -y thunar kitty rofi firefox waybar
 
 echo "hyprlock"
 echo "  dependencies"
